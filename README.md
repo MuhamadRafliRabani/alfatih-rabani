@@ -1,6 +1,6 @@
-# Admin Panel Project
+# Admin Panel al fatih
 
-Admin Panel berbasis **Laravel + Inertia.js + Vue 3** untuk mengelola data pasien dan riwayat kunjungan.
+Admin Panel dengan **Laravel + Inertia.js + Vue 3** untuk mengelola data pasien dan riwayat kunjungan.
 
 ## Prerequisites
 
@@ -62,4 +62,13 @@ php artisan serve
 npm run dev
 ```
 
+## Masuk ke dashboad
+- login atau buat akun dihomepage
+- setelah login akan redirect kedashboad secara otomatis
+
+## Catatan
+### Konfigurasi CRUD 
+- create: Prefix/store
+- update: Prefix/update
+- delete: Prefix/delete
 
