@@ -1,4 +1,4 @@
-# Admin Panel al fatih
+# TEST al fatih (Dashboard)
 
 Admin Panel dengan **Laravel + Inertia.js + Vue 3** untuk mengelola data pasien dan riwayat kunjungan.
 
